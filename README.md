@@ -1,7 +1,3 @@
-# Angular Exercises
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
-
 ## General information ##
 
 This is a software development exercise for a Raynet GmbH frontend
@@ -15,6 +11,8 @@ Please clone the project and create a new branch to start.
 When you are done with the tasks, create a merge request.
 
 Further information like the tasks to solve are visible within the project, after you served it.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
 
